@@ -1,0 +1,2 @@
+# tribex
+Educate, Empower, Organize
