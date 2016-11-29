@@ -16,7 +16,7 @@ body {
 /* insert Navbar specs */
 
 {
-    padding-top: 15px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    padding-top: 10px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
 }
 
 .navbar-fixed-top .nav {
